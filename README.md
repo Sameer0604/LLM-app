@@ -9,7 +9,7 @@ Adding the prompt
 <br/>
 
 
-<img width="343" alt="Screenshot 2024-03-21 at 3 04 32 PM" src="<img width="341" alt="Screenshot 2024-10-20 at 7 44 32 PM" src="https://github.com/user-attachments/assets/fe4c8ad3-f18c-45de-89a1-85117d291d5e">
+<img width="343" alt="Screenshot 2024-03-21 at 3 04 32 PM"  src="https://github.com/user-attachments/assets/fe4c8ad3-f18c-45de-89a1-85117d291d5e">
 >
 ">
 <br/>
