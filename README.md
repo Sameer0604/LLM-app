@@ -18,6 +18,6 @@ Adding the prompt
 <br/>
 Response received in background and updated on the app
 <br/>
-<br/>
-<img width="343" alt="Screenshot 2024-03-21 at 3 06 32 PM" src="<img width="336" alt="Screenshot 2024-10-20 at 7 44 05 PM" src="https://github.com/user-attachments/assets/23239e8a-b835-477e-b2be-dce837d78dd2">
+<br/><img width="336" alt="Screenshot 2024-10-20 at 7 44 05 PM" src="https://github.com/user-attachments/assets/f36241e3-a46a-40f9-9dc1-cd96ef47f362">
+
 ">
